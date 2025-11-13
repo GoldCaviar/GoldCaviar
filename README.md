@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет 👋 Рад тебя видеть на моей страничке! 
 
 <!--
 **GoldCaviar/GoldCaviar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

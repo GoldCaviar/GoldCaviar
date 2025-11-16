@@ -1,6 +1,9 @@
 ## Привет 👋 Рад тебя видеть на моей страничке! 
 ## Hey 👋 Glad to see you here!
 
+<img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Count" /> <br/> <img src="https://visitor-badge.laobi.icu/badge?page_id=igareck.visitor-badge&left_color=black&right_color=green&left_text=Cyber+Hits" alt="Cyber Hits"/>  
+</div>
+
 <!--
 **GoldCaviar/GoldCaviar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
